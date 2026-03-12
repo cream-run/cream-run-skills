@@ -1,0 +1,12 @@
+{
+  "name": "dexscreener-cli",
+  "type": "integration",
+  "tier": "integration",
+  "description": "Token search, pool discovery, and market data from DexScreener. Base is the relevant data source for Cream agents.",
+  "version": "1.0.0",
+  "author": "meta_alchemist",
+  "links": {
+    "github": "https://github.com/vibeforge1111/dexscreener-cli-mcp-tool",
+    "x": "https://x.com/meta_alchemist"
+  }
+}

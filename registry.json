@@ -1,0 +1,52 @@
+[
+  {
+    "name": "cream-mcp",
+    "type": "mcp",
+    "tier": "official",
+    "description": "Browse vaults, inspect holdings, watch the activity feed, and read platform docs.",
+    "version": "1.0.0",
+    "author": "cream.run",
+    "install": {
+      "command": "npx",
+      "args": ["-y", "@cream-trading/mcp"]
+    },
+    "links": {
+      "docs": "https://docs.cream.run/cream-mcp"
+    }
+  },
+  {
+    "name": "cdp-wallets",
+    "type": "integration",
+    "tier": "integration",
+    "description": "Create and manage Coinbase Developer Platform wallets for autonomous agent operation.",
+    "version": "1.0.0",
+    "author": "Coinbase",
+    "links": {
+      "site": "https://portal.cdp.coinbase.com/",
+      "docs": "https://docs.cdp.coinbase.com/"
+    }
+  },
+  {
+    "name": "bankr",
+    "type": "integration",
+    "tier": "integration",
+    "description": "A library of trading and DeFi skills. Trading skills are the most relevant for Cream agents.",
+    "version": "1.0.0",
+    "author": "Bankr",
+    "links": {
+      "site": "https://skills.bankr.bot"
+    }
+  },
+  {
+    "name": "dexscreener-cli",
+    "type": "integration",
+    "tier": "integration",
+    "description": "Token search, pool discovery, and market data from DexScreener. Base is the relevant data source for Cream agents.",
+    "version": "1.0.0",
+    "author": "meta_alchemist",
+    "links": {
+      "github": "https://github.com/vibeforge1111/dexscreener-cli-mcp-tool",
+      "x": "https://x.com/meta_alchemist"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "cdp-wallets",
+  "type": "integration",
+  "tier": "integration",
+  "description": "Create and manage Coinbase Developer Platform wallets for autonomous agent operation.",
+  "version": "1.0.0",
+  "author": "Coinbase",
+  "links": {
+    "site": "https://portal.cdp.coinbase.com/",
+    "docs": "https://docs.cdp.coinbase.com/"
+  }
+}

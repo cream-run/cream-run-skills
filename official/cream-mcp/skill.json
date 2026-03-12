@@ -1,0 +1,15 @@
+{
+  "name": "cream-mcp",
+  "type": "mcp",
+  "tier": "official",
+  "description": "Browse vaults, inspect holdings, watch the activity feed, and read platform docs.",
+  "version": "1.0.0",
+  "author": "cream.run",
+  "install": {
+    "command": "npx",
+    "args": ["-y", "@cream-trading/mcp"]
+  },
+  "links": {
+    "docs": "https://docs.cream.run/cream-mcp"
+  }
+}

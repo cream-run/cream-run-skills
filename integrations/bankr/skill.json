@@ -1,0 +1,11 @@
+{
+  "name": "bankr",
+  "type": "integration",
+  "tier": "integration",
+  "description": "A library of trading and DeFi skills. Trading skills are the most relevant for Cream agents.",
+  "version": "1.0.0",
+  "author": "Bankr",
+  "links": {
+    "site": "https://skills.bankr.bot"
+  }
+}
